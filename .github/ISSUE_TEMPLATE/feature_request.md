@@ -1,20 +1,17 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
+title: "[ 생성 ]"
 labels: ''
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**어떤 이슈인가요?**
+이슈에 대해서 간단히 설명해주세요.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**이슈가 발생한 과정을 묘사해주세요**
+[]  step 1 : 
+[]  step 1 : 
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**해결하기 위해 무엇을 시도했나요?**
